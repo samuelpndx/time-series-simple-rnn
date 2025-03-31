@@ -18,3 +18,7 @@ To run the notebook, you need the following dependencies:
 - NumPy
 - Matplotlib
 
+
+## Acknowledgment
+
+This project was adapted from the course **DeepLearning.AI TensorFlow Developer Professional Certificate**.
